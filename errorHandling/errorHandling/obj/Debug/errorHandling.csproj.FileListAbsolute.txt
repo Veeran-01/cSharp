@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Veeran\CSharp\errorHandling\errorHandling\bin\Debug\errorHandling.exe.config
+C:\Users\student\Desktop\Veeran\CSharp\errorHandling\errorHandling\bin\Debug\errorHandling.exe
+C:\Users\student\Desktop\Veeran\CSharp\errorHandling\errorHandling\bin\Debug\errorHandling.pdb
+C:\Users\student\Desktop\Veeran\CSharp\errorHandling\errorHandling\obj\Debug\errorHandling.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Veeran\CSharp\errorHandling\errorHandling\obj\Debug\errorHandling.exe
+C:\Users\student\Desktop\Veeran\CSharp\errorHandling\errorHandling\obj\Debug\errorHandling.pdb

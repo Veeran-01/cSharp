@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Veeran\CSharp\loopRiddles\loopRiddles\bin\Debug\loopRiddles.exe.config
+C:\Users\student\Desktop\Veeran\CSharp\loopRiddles\loopRiddles\obj\Debug\loopRiddles.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Veeran\CSharp\loopRiddles\loopRiddles\bin\Debug\loopRiddles.exe
+C:\Users\student\Desktop\Veeran\CSharp\loopRiddles\loopRiddles\bin\Debug\loopRiddles.pdb
+C:\Users\student\Desktop\Veeran\CSharp\loopRiddles\loopRiddles\obj\Debug\loopRiddles.exe
+C:\Users\student\Desktop\Veeran\CSharp\loopRiddles\loopRiddles\obj\Debug\loopRiddles.pdb

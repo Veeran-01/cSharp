@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Veeran\CSharp\nectPresident\nectPresident\bin\Debug\nectPresident.exe.config
+C:\Users\student\Desktop\Veeran\CSharp\nectPresident\nectPresident\obj\Debug\nectPresident.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Veeran\CSharp\nectPresident\nectPresident\bin\Debug\nectPresident.exe
+C:\Users\student\Desktop\Veeran\CSharp\nectPresident\nectPresident\bin\Debug\nectPresident.pdb
+C:\Users\student\Desktop\Veeran\CSharp\nectPresident\nectPresident\obj\Debug\nectPresident.exe
+C:\Users\student\Desktop\Veeran\CSharp\nectPresident\nectPresident\obj\Debug\nectPresident.pdb
