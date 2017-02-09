@@ -16,7 +16,7 @@ namespace objectOrientedCars
         public bool sold;
         public string type;
 
-        //static property- belongs to Car CLASS as a whole
+        //static property- belongs to Vehicle CLASS as a whole
         public static int carsSold;
         public static int carsInStock;
         public static int motorbikesSold;
@@ -37,15 +37,17 @@ namespace objectOrientedCars
             this.sold = isSold;
             this.price = price;
 
-            if (type == "car")
+            switch(type)
             {
+                case "car":
                 Car.carsSold++;
                 Car.carsInStock--;
-            }
-            else
-            {
+                    break;
+
+                case "motorbike":
                 Motorbike.motorbikesSold++;
                 Motorbike.motorbikesInStock--;
+                    break;
             }
         }
 
@@ -72,39 +74,19 @@ namespace objectOrientedCars
 
                 if (vehicle.sold == true)
                 {
-                    if (vehicle.type == "car")
-                    {
-                        Console.WriteLine("This car has been sold");
-                        //Add value car sold for to soldValue
-                        soldValue += vehicle.price;
-                    }
-                    else
-                    {
-                        Console.WriteLine("This motorbike has been sold.");
-                        soldValue += vehicle.price;
-                    }
+                    Console.WriteLine("This {0} has been sold", vehicle.type);
+                    soldValue += vehicle.price;
                 }
                 else
                 {
-                    if (vehicle.type == "car")
-                    {
-                        Console.WriteLine("This car hasn't been sold.");
-                        //add value of car to stock value if it hasn't been sold
-                        stockValue += vehicle.price;
-                    }
-                    else
-                    {
-                        Console.WriteLine("This motorbike hasn't been sold.");
-                        stockValue += vehicle.price;
-                    }
+                    Console.WriteLine("This {0} hasn't been sold.", vehicle.type);
+                    stockValue += vehicle.price;
                 }
             }
 
             Console.WriteLine("The total value of vehicles sold is {0:N0} ", soldValue);
             Console.WriteLine("The total value of vehicles unsold is {0:N0} ", stockValue);
         }
-
-
     }
 
     //Create class Car that inherits from Vehicle- i.e. can use its methods
@@ -164,13 +146,13 @@ namespace objectOrientedCars
             motorbike1.SellVehicle(true, 20000);
             
             //Display values of the objects
-            Console.WriteLine("The total number of cars in stock is " + Car.carsInStock);
-            Console.WriteLine("The total number of cars sold is " + Car.carsSold);
-            Console.WriteLine("The total number of motorbikes in stock is " + Motorbike.motorbikesInStock);
-            Console.WriteLine("The total number of motorbikes sold is " + Motorbike.motorbikesSold);
+            Console.WriteLine("The total number of cars in stock is {0} and the total numbers of cars sold is {1}",
+                Car.carsInStock, Car.carsSold);
+            Console.WriteLine("The total number of motorbikes in stock is {0} and the total number of motorbikes sold is {1} ",
+                Motorbike.motorbikesInStock, Motorbike.motorbikesSold);
 
-            //Call ListVehicle
-            motorbike1.ListVehicle();
+            //If you wanted to list a single vehicle- ListVehicle
+            //motorbike1.ListVehicle();
 
             Vehicle.VehicleList(allVehicles);
             }
