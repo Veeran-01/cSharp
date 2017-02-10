@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\bin\Debug\BirthdayDemo.exe.config
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\bin\Debug\BirthdayDemo.exe
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\bin\Debug\BirthdayDemo.pdb
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.Form1.resources
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.Properties.Resources.resources
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.exe
+C:\Users\student\Desktop\Veeran\CSharp\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.pdb
