@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Veeran\CSharp\bookCollection\bookCollection\bin\Debug\bookCollection.exe.config
+C:\Users\student\Desktop\Veeran\CSharp\bookCollection\bookCollection\bin\Debug\bookCollection.exe
+C:\Users\student\Desktop\Veeran\CSharp\bookCollection\bookCollection\bin\Debug\bookCollection.pdb
+C:\Users\student\Desktop\Veeran\CSharp\bookCollection\bookCollection\obj\Debug\bookCollection.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Veeran\CSharp\bookCollection\bookCollection\obj\Debug\bookCollection.exe
+C:\Users\student\Desktop\Veeran\CSharp\bookCollection\bookCollection\obj\Debug\bookCollection.pdb

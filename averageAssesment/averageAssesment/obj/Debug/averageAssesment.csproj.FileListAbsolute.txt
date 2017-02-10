@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Veeran\CSharp\averageAssesment\averageAssesment\bin\Debug\averageAssesment.exe.config
+C:\Users\student\Desktop\Veeran\CSharp\averageAssesment\averageAssesment\bin\Debug\averageAssesment.exe
+C:\Users\student\Desktop\Veeran\CSharp\averageAssesment\averageAssesment\bin\Debug\averageAssesment.pdb
+C:\Users\student\Desktop\Veeran\CSharp\averageAssesment\averageAssesment\obj\Debug\averageAssesment.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Veeran\CSharp\averageAssesment\averageAssesment\obj\Debug\averageAssesment.exe
+C:\Users\student\Desktop\Veeran\CSharp\averageAssesment\averageAssesment\obj\Debug\averageAssesment.pdb
